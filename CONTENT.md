@@ -67,7 +67,25 @@ Designs and builds AI agents and custom Claude Skills that do structured legal w
 
 Sample output: deal abstract and critical dates screenshots from a run on a specimen contract with fictional parties (img/deal-abstract.webp, img/critical-dates.webp).
 
-### 2. Implementation workflow-mapping agent
+### 2. Commercial contract review agent
+
+**The problem.** Commercial agreements from the other side often bury non-standard terms in liability, indemnification, data and renewal clauses. Reviewing them clause by clause against your standard positions is slow, and a missed auto-renewal or uncapped indemnity costs the client money.
+
+**What it does.**
+- Pulls out the key commercial terms (parties, term and renewal, fees, liability cap, indemnities, IP, data protection, termination), with a section citation for each
+- Checks each clause against a playbook of standard and fallback positions, and marks it acceptable, negotiable or must-change
+- Drafts a redline with suggested replacement language for every flagged clause
+- Produces an issues list ranked by business impact, plus a client email summarizing the main points, all for attorney review
+
+**Scope.** SaaS, services, vendor, licensing agreements and NDAs. It works from either the customer side or the vendor side, and you pick the side at the start of each review.
+
+**Design principle.** The agent drafts. The attorney decides. Nothing leaves the office without attorney review.
+
+**Built with.** Claude, as a custom Skill.
+
+[Sample output: screenshots of the issues list and redline from a run on a fictional SaaS agreement. Images not yet in repo.]
+
+### 3. Implementation workflow-mapping agent
 
 **The problem.** Configuring a prosecutor or civil case management system for a government office meant mapping the work of every position in that office, then synthesizing those workflows into a single system configuration.
 
@@ -75,7 +93,7 @@ Sample output: deal abstract and critical dates screenshots from a run on a spec
 
 **Note.** Built for internal use at a prior employer and described here in general terms.
 
-### 3. Government case management implementations
+### 4. Government case management implementations
 
 **Representative projects.**
 - U.S. Attorney's Office for the District of Columbia, Superior Court Division: $4M, 18-month, 500-user rollout

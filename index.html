@@ -174,7 +174,44 @@
         <article class="case" aria-labelledby="case-2">
           <header class="case-head reveal">
             <p class="case-label">Case study 2</p>
-            <h3 id="case-2">Implementation workflow-mapping agent</h3>
+            <h3 id="case-2">Commercial contract review agent</h3>
+          </header>
+
+          <div class="case-grid">
+            <div class="case-main">
+              <div class="block reveal">
+                <h4>The problem</h4>
+                <p>Commercial agreements from the other side often bury non-standard terms in liability, indemnification, data and renewal clauses. Reviewing them clause by clause against your standard positions is slow, and a missed auto-renewal or uncapped indemnity costs the client money.</p>
+              </div>
+            </div>
+            <aside class="case-meta reveal" aria-label="Case study 2 details">
+              <dl>
+                <div><dt>Scope</dt><dd>SaaS, services, vendor, licensing agreements and NDAs. It works from either the customer side or the vendor side, and you pick the side at the start of each review.</dd></div>
+                <div><dt>Built with</dt><dd>Claude, as a custom Skill.</dd></div>
+              </dl>
+            </aside>
+          </div>
+
+          <div class="block reveal">
+            <h4>What it does</h4>
+            <ol class="flow">
+              <li><span class="flow-step" aria-hidden="true">1</span><p>Pulls out the key commercial terms (parties, term and renewal, fees, liability cap, indemnities, IP, data protection, termination), with a section citation for each</p></li>
+              <li><span class="flow-step" aria-hidden="true">2</span><p>Checks each clause against a playbook of standard and fallback positions, and marks it acceptable, negotiable or must-change</p></li>
+              <li><span class="flow-step" aria-hidden="true">3</span><p>Drafts a redline with suggested replacement language for every flagged clause</p></li>
+              <li><span class="flow-step" aria-hidden="true">4</span><p>Produces an issues list ranked by business impact, plus a client email summarizing the main points, all for attorney review</p></li>
+            </ol>
+          </div>
+
+          <figure class="principle reveal">
+            <figcaption>Design principle</figcaption>
+            <blockquote><p>The agent drafts. The attorney decides. Nothing leaves the office without attorney review.</p></blockquote>
+          </figure>
+        </article>
+
+        <article class="case" aria-labelledby="case-3">
+          <header class="case-head reveal">
+            <p class="case-label">Case study 3</p>
+            <h3 id="case-3">Implementation workflow-mapping agent</h3>
           </header>
           <div class="case-grid">
             <div class="case-main">
@@ -187,7 +224,7 @@
                 <p>Structured the workflow analysis behind each implementation. Over the final two years, Claude and Microsoft Copilot were built into daily delivery work, speeding workflow analysis, system configuration, and preparation of training materials.</p>
               </div>
             </div>
-            <aside class="case-meta reveal" aria-label="Case study 2 details">
+            <aside class="case-meta reveal" aria-label="Case study 3 details">
               <dl>
                 <div><dt>Note</dt><dd>Built for internal use at a prior employer and described here in general terms.</dd></div>
               </dl>
@@ -195,10 +232,10 @@
           </div>
         </article>
 
-        <article class="case" aria-labelledby="case-3">
+        <article class="case" aria-labelledby="case-4">
           <header class="case-head reveal">
-            <p class="case-label">Case study 3</p>
-            <h3 id="case-3">Government case management implementations</h3>
+            <p class="case-label">Case study 4</p>
+            <h3 id="case-4">Government case management implementations</h3>
           </header>
           <div class="block reveal">
             <h4>Representative projects</h4>
