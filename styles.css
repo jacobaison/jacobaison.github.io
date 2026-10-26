@@ -638,6 +638,7 @@ a {
   }
   .flow li {
     grid-template-columns: 1fr;
+    align-content: start;
     gap: 1rem;
     padding: 0;
   }
