@@ -299,7 +299,8 @@ a {
   margin-bottom: 0.75rem;
 }
 
-.case-body { max-width: 64ch; }
+.case-body > p,
+.case-body > ul { max-width: 64ch; }
 
 .case-body h4 {
   font-family: var(--sans);
@@ -326,6 +327,30 @@ a {
   line-height: 1.45;
   padding-left: 1rem;
   border-left: 2px solid var(--accent);
+}
+
+.shots {
+  display: grid;
+  gap: 1rem;
+  margin: 0.75rem 0 0;
+}
+
+.shots a {
+  display: block;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.shots img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.shots figcaption {
+  color: var(--muted);
+  font-size: 0.875rem;
 }
 
 @media (min-width: 52rem) {

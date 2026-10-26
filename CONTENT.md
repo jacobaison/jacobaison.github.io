@@ -65,7 +65,7 @@ Designs and builds AI agents and custom Claude Skills that do structured legal w
 
 **Built with.** Claude, as a custom Skill.
 
-[Screenshot: yes, sample output run on a dummy contract, with no client data. Image not yet in repo.]
+Sample output: deal abstract and critical dates screenshots from a run on a specimen contract with fictional parties (img/deal-abstract.webp, img/critical-dates.webp).
 
 ### 2. Implementation workflow-mapping agent
 
