@@ -83,7 +83,7 @@ Sample output: deal abstract and critical dates screenshots from a run on a spec
 
 **Built with.** Claude, as a custom Skill.
 
-[Sample output: screenshots of the issues list and redline from a run on a fictional SaaS agreement. Images not yet in repo.]
+Sample output: issues list and redline screenshots from a run on a specimen SaaS agreement with fictional parties (img/issues-list.webp, img/redline.webp).
 
 ### 3. Implementation workflow-mapping agent
 
