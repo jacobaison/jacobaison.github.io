@@ -19,7 +19,7 @@ U.S. transactional attorney who builds AI tools for legal work.
 
 Licensed in New York and Ohio and based in Israel. Seven years as the attorney inside a legal software company, leading implementations for prosecutors and attorneys general, alongside a transactional practice in acquisitions, financings, and commercial agreements.
 
-Buttons: Email | LinkedIn | Resume (PDF) [CONFIRM: include a resume download? If yes, which version, and remove the phone number from the public copy?]
+Buttons: Email | LinkedIn | Resume (PDF) [Resume: yes, most recent legal and tech version. PDF not yet in repo. CONFIRM: remove the phone number from the public copy?]
 
 ---
 
@@ -65,7 +65,7 @@ Designs and builds AI agents and custom Claude Skills that do structured legal w
 
 **Built with.** Claude, as a custom Skill.
 
-[CONFIRM: add a screenshot of sample output run on a dummy contract, with no client data?]
+[Screenshot: yes, sample output run on a dummy contract, with no client data. Image not yet in repo.]
 
 ### 2. Implementation workflow-mapping agent
 
@@ -119,7 +119,7 @@ Law Office of Jacob J. Aison, 2018 to present. 20 to 30 transactions for 6 to 9 
 - J.D., New England Law | Boston, 2015
 - B.A., Criminal Justice, SUNY Plattsburgh, 2008
 - Admitted: New York (2018), Ohio (2021)
-- Israel Bar Association Foreign Lawyer registration [CONFIRM: current status]
+- Israel Bar Association Foreign Lawyer registration (in progress)
 - Languages: English (native); Hebrew (beginner, studying)
 
 ---
@@ -128,5 +128,5 @@ Law Office of Jacob J. Aison, 2018 to present. 20 to 30 transactions for 6 to 9 
 
 Based in Israel. Travels to New York as needed.
 
-- Email: jacobaison@gmail.com [CONFIRM: this address or jacobaisonlaw@gmail.com]
-- LinkedIn: [CONFIRM: profile URL]
+- Email: jacobaison@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jacob-aison-a6509924
