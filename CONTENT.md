@@ -19,7 +19,7 @@ U.S. transactional attorney who builds AI tools for legal work.
 
 Licensed in New York and Ohio and based in Israel. Seven years as the attorney inside a legal software company, leading implementations for prosecutors and attorneys general, alongside a transactional practice in acquisitions, financings, and commercial agreements.
 
-Buttons: Email | LinkedIn | Resume (PDF) [Resume: yes, most recent legal and tech version. PDF not yet in repo. CONFIRM: remove the phone number from the public copy?]
+Buttons: Email | LinkedIn | Resume (Legal, PDF) | Resume (Tech, PDF). Public resume copies have the phone number removed (docs/).
 
 ---
 
