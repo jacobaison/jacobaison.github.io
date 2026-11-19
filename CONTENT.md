@@ -65,7 +65,7 @@ Designs and builds AI agents and custom Claude Skills that do structured legal w
 
 **Built with.** Claude, as a custom Skill.
 
-Sample output: deal abstract and critical dates screenshots from a run on a specimen contract with fictional parties (img/deal-abstract.webp, img/critical-dates.webp).
+Sample output: deal abstract and critical dates from a run on a specimen contract with fictional parties. The deal abstract shows on the page (img/deal-abstract.webp); the critical dates table is a link (img/critical-dates.webp).
 
 ### 2. Commercial contract review agent
 
@@ -83,7 +83,7 @@ Sample output: deal abstract and critical dates screenshots from a run on a spec
 
 **Built with.** Claude, as a custom Skill.
 
-Sample output: issues list and redline screenshots from a run on a specimen SaaS agreement with fictional parties (img/issues-list.webp, img/redline.webp).
+Sample output: issues list and redline from a run on a specimen SaaS agreement with fictional parties. The issues list shows on the page (img/issues-list.webp); the redline is a link (img/redline.webp).
 
 ### 3. Implementation workflow-mapping agent
 
