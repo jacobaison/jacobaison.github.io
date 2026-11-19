@@ -137,7 +137,7 @@ Law Office of Jacob J. Aison, 2018 to present. 20 to 30 transactions for 6 to 9 
 - J.D., New England Law | Boston, 2015
 - B.A., Criminal Justice, SUNY Plattsburgh, 2008
 - Admitted: New York (2018), Ohio (2021)
-- Israel Bar Association Foreign Lawyer registration (in progress)
+- Israel Bar Association Foreign Lawyer registration (ethics exam passed)
 - Languages: English (native); Hebrew (beginner, studying)
 
 ---
